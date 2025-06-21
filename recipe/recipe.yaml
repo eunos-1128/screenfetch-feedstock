@@ -31,7 +31,7 @@ test:
 
 about:
   homepage: https://github.com/${{ author }}/${{ name }}
-  repository: https://github.com/${{ author}}/${{ name }}
+  repository: https://github.com/${{ author }}/${{ name }}
   documentation: https://github.com/${{ version }}/${{ name }}/blob/v${{ version }}/README.mkdn
   license: GPL-3.0-or-later
   license_file: COPYING
