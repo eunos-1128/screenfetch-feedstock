@@ -11,21 +11,15 @@ Summary: Generate ASCII art with terminal, shell, and OS info
 
 Development: https://github.com/KittyKatt/screenFetch
 
-screenFetch is a shell script that generates ASCII art with terminal, shell, and OS info.
+Documentation: https://github.com/3.9.9/screenFetch/blob/v3.9.9/README.mkdn
 
+screenFetch is a shell script that generates ASCII art with terminal, shell, and OS info.
 
 Current build status
 ====================
 
 
-<table><tr>
-    <td>Travis</td>
-    <td>
-      <a href="https://app.travis-ci.com/conda-forge/screenfetch-feedstock">
-        <img alt="linux" src="https://img.shields.io/travis/com/conda-forge/screenfetch-feedstock/main.svg?label=Linux">
-      </a>
-    </td>
-  </tr>
+<table>
     
   <tr>
     <td>Azure</td>
