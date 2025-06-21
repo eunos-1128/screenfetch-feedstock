@@ -25,7 +25,7 @@ requirements:
   run:
     - bash
 
-test:
+tests:
   - script:
     - ${{ name|lower }} -V
 
