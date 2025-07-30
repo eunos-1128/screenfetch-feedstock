@@ -13,7 +13,7 @@ source:
 
 build:
   noarch: generic
-  skip:　win
+  skip: win
   number: 1
   script: |
     set -exo | pipefail
